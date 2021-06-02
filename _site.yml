@@ -1,0 +1,12 @@
+name: "ISSC-simple-site"
+title: "Simple example site"
+description: |
+  Simple example site
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

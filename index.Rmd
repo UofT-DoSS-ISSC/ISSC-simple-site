@@ -1,0 +1,29 @@
+---
+title: "Independent Summer Statistics Community"
+color1: "#002E69"
+color2: "#002E69"
+angle: 130
+image: "issc_circle.png"
+links:
+  - label: Sign up
+    url: "https://forms.office.com/Pages/ResponsePage.aspx?id=JsKqeAMvTUuQN7RtVsVSELL2hSYbOq1Aks2VFGnb_h9UNFdSREVVRDE0V1dNRjMzWVRaREdDTk80Sy4u"
+  - label: SharePoint
+    url: "https://utoronto.sharepoint.com/sites/ArtSci-STA/ISSC/SitePages/ISSC-Home.aspx"
+  - label: GitHub
+    url: "https://github.com/UofT-DoSS-ISSC"
+  - label: DoSS
+    url: "https://www.statistics.utoronto.ca/"
+  - label: Need help?
+    url: "mailto:liza.bolton@utoronto.ca"
+output:
+  postcards::trestles
+site: distill::distill_website
+---
+ 
+_May 2021_ 
+
+We're excited to announce the second iteration of the _Independent Summer Statistics Community: Beyond Coursework_. Through this community, Department of Statistical Sciences students will have opportunities to build their professional statistical portfolio, connect with other students, increase their career preparedness and explore their options.
+
+__Who is it for?__ All undergraduate students in a Department of Statistical Sciences (UTSG) PoST (including those about to graduate) or who took STA130 in Fall 2020/Winter 2021.
+
+
